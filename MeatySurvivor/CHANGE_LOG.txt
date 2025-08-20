@@ -20,3 +20,4 @@ Change Log August 20th 2025
 
 		-Bug fixes
 -Health Upgrade now gives proper amount
+-Enemies will now be able to spawn after Wave 7 (Cap on enemies on field is applied corectly)
