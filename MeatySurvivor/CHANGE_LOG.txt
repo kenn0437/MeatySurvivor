@@ -18,6 +18,12 @@ Change Log August 20th 2025
 -Changed size for text on upgrades when there is a lot of text to better fit into box
 
 
+		-New Things
+-Added Item Slots
+-Added Premium Egg item
+	-Egg pickups heal more based on Item level
+
+
 		-Bug fixes
 -Health Upgrade now gives proper amount
 -Enemies will now be able to spawn after Wave 7 (Cap on enemies on field is applied corectly)
