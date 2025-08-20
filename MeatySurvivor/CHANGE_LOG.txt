@@ -1,0 +1,18 @@
+Change Log August 20th 2025
+
+		-Enemies
+
+- White Chicken
+	- Hp 75 -> 50
+	- Egg drop chance 10 -> 20%
+
+-Brown Chicken
+	- Hp 100 -> 45
+	- Egg Drop chance 12 -> 22%
+	-Reduced hitbox size to make dodging the dash more fair
+
+
+
+		
+		-UI
+-Changed size for text on upgrades when there is a lot of text to better fit into box
