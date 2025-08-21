@@ -1,3 +1,27 @@
+Change Log August 21th 2025
+
+		-New Things
+
+- Shining Glory
+	- Negate once instance of damage and give invul frames for a short time, Base 20 second cooldown 
+	 between activations.
+
+- Professional Egg Hunter
+	- Increases the chance that enemies will drop eggs -> BaseDropChance + (Bonus * (Level +1))
+
+
+		-Controls
+
+- Switched from the Legacy Input to the newer Input System
+
+               -Misc
+
+-Changed PlayerPref settings to allow run in background
+ Hopefully this will allow it to be streamed 
+
+
+
+------------------------------------------------------------------------------------
 Change Log August 20th 2025
 
 		-Enemies
