@@ -9,6 +9,9 @@ Change Log August 21th 2025
 - Professional Egg Hunter
 	- Increases the chance that enemies will drop eggs -> BaseDropChance + (Bonus * (Level +1))
 
+-Soupe a la OP
+	-Fire a projectile in a random direction for a random distance and creates a puddle that damages enemies inside every set time
+
 
 		-Controls
 
